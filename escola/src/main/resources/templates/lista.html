@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista Aluno</title>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-th-each="a: ${alunos}">
+                <td data-th-text="${a.nome}"></td>
+                <td data-th-text="${a.email}"></td>
+            </tr>
+        </tbody>
+
+    </table>
+    
+</body>
+</html>
