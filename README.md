@@ -16,3 +16,5 @@ Este repositório contém estudos e projetos focados em **Arquitetura de Sistema
 2. Navegue até o diretório do projeto e explore os diagramas e documentos de arquitetura.
 
 
+
+- [LinkedIn](https://www.linkedin.com/in/rayssa-borges-59097a288/)
